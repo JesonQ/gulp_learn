@@ -7,3 +7,8 @@ Object.defineProperty(exports, "__esModule", {
 var name = exports.name = "guigu";
 
 var name1 = exports.name1 = "guigu1";
+
+// {
+//   name,
+//   name1
+// }
