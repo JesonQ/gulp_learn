@@ -1,0 +1,13 @@
+{
+  "esversion": 6,  
+  "asi":true,				// 允许不写结尾处的分号
+  "undef": true, 			// 使用之前必须定义
+  "devel": true, 			// 没有定义也可以使用 console，alert 进行调试
+  "eqeqeq": true,			// 强制使用 === 
+  "unused": true, 		// 定义了必须使用
+  "globals": { 			// 配置全局变量，直接使用不会报错
+      "module": true,
+      "$":true
+
+  }
+}
