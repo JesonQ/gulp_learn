@@ -8,6 +8,5 @@
   "globals": { 			// 配置全局变量，直接使用不会报错
       "module": true,
       "$":true
-
   }
 }
