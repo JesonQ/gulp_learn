@@ -9,8 +9,10 @@ console.log(name)
 //   console.log("正确")
 // }
 
-$("body").css("background", "red")
+
+$("body").css("background", "pink")
+
 
 // 引入less
-import "../less/test1.less"
-import "../less/test2.less"
+// import "../less/test1.less"
+// import "../less/test2.less"
