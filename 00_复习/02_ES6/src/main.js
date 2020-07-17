@@ -24,5 +24,5 @@
 // import * as m33 from "./m3"
 // console.log(m33.default.m3)
 
-// import m3 from "./m3"
+// import m3 from "./m3"   // 简便方式
 // console.log(m3)
