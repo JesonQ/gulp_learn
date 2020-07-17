@@ -10,3 +10,7 @@ console.log(name)
 // }
 
 $("body").css("background", "red")
+
+// 引入less
+import "../less/test1.less"
+import "../less/test2.less"
